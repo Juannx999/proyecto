@@ -16,3 +16,15 @@ Primero, clona el repositorio en tu máquina local usando el siguiente comando:
 
 ```bash
 git clone https://github.com/tu_usuario/tu_repositorio.git
+
+
+```bash
+npm install
+
+##Ejecutar el backend
+```bash
+npm start
+
+##Ejecutar el frontend
+```bash
+npm run dev
